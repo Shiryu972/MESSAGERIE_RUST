@@ -1,0 +1,47 @@
+SOURCES UTILES 
+Titre + lien de la source
+
+DOCUMENTATION :
+
+Ide pour rust :
+https://www.dunebook.com/8-best-rust-ide-programming-language/
+
+Tutoriel pour Clion et install des outils RUST
+(Notez qu'avec l'école on a une licence edu pour les produits jetbrain) :
+https://www.youtube.com/watch?v=SAETpvtZ8v0
+
+Crate de crypto :
+https://rust-lang-nursery.github.io/rust-cookbook/cryptography.html
+
+Tutoriel pour utiliser les crate lettre et imap :
+https://blog.logrocket.com/email-crates-for-rust-lettre-and-imap/
+
+Modules net qui regroupe des outils réseaux : 
+https://doc.rust-lang.org/std/net/index.html
+
+Struct TCP STREAM : 
+https://doc.rust-lang.org/std/net/struct.TcpStream.html
+
+Struct TcpListener : 
+https://doc.rust-lang.org/std/net/struct.TcpListener.html
+
+
+
+
+SOURCES :
+
+
+
+Projet Client&server simple : 
+https://steemit.com/technology/@tensor/rust-project-native-chat-app?utm_source=pocket_mylist
+
+Vidéo pour création d'interface graphique :
+https://www.youtube.com/watch?v=dK9-oXptFcM
+
+Projet de chat avec une interface graphique en REACT :
+https://github.com/tinrab/rusty-chat
+
+Projet de Client&server simple 2 :
+https://github.com/jean553/rust-chat-server/tree/master/rust-chat-server
+
+
